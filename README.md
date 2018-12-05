@@ -7,3 +7,10 @@
 * https://github.com/alibaba/arthas
 * https://alibaba.github.io/arthas/
 * http://start.dubbo.io/
+
+
+## 微信公众号
+
+欢迎扫一扫下面的微信公众号，订阅“横云断岭的专栏”。
+
+![横云断岭的专栏](qrcode_gongzhonghao.jpg)
