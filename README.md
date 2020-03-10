@@ -14,4 +14,4 @@
 
 欢迎扫一扫下面的微信公众号，订阅“横云断岭的专栏”。
 
-![横云断岭的专栏](qrcode_gongzhonghao.jpg)
+![横云断岭的专栏](./qrcode_gongzhonghao.jpg)
